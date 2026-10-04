@@ -1,0 +1,10 @@
+2026-10-04 10:23:08,423 | INFO | Rows: 20640 | numeric: ['MedInc', 'HouseAge', 'AveRooms', 'AveBedrms', 'Population', 'AveOccup', 'Latitude', 'Longitude'] | categorical: ['AgeGroup']
+2026-10-04 10:23:08,427 | INFO | Missing cells before imputation: 1292
+2026-10-04 10:23:08,519 | INFO | Dummy (mean)       train | R^2 = 0.0000 | RMSE = 1.1549 | MAE = 0.9120
+2026-10-04 10:23:08,519 | INFO | Dummy (mean)       test  | R^2 = -0.0000 | RMSE = 1.1501 | MAE = 0.9116
+2026-10-04 10:23:08,611 | INFO | LinearRegression   train | R^2 = 0.6089 | RMSE = 0.7223 | MAE = 0.5293
+2026-10-04 10:23:08,611 | INFO | LinearRegression   test  | R^2 = 0.6005 | RMSE = 0.7269 | MAE = 0.5264
+2026-10-04 10:23:16,747 | INFO | Best alpha = 0.1 | CV RMSE = 0.7229
+2026-10-04 10:23:16,747 | INFO | Ridge (tuned)      train | R^2 = 0.6089 | RMSE = 0.7223 | MAE = 0.5293
+2026-10-04 10:23:16,747 | INFO | Ridge (tuned)      test  | R^2 = 0.6005 | RMSE = 0.7269 | MAE = 0.5264
+2026-10-04 10:23:20,970 | INFO | Artifacts saved to E:\My projects\progree-ml-internship\task2-ridge-regression\results
