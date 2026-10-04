@@ -253,7 +253,7 @@ This internship portfolio provided practical experience across the machine learn
 Machine Learning Intern @ Progree
 BS Artificial Intelligence Student | AI/ML Engineer
 
-* GitHub: [SUMAIRDERO7](https://github.com/SUMAIRDER62)
+* GitHub: [SUMAIRDERO7](https://github.com/SUMAIRDERO62)
 * LinkedIn: [Sumair Ahmed Dero](https://www.linkedin.com/in/sumair-ahmed-dero-70ba852a0)
 
 ---
